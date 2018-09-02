@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,camera.8002 - Canal Aeri 2
+rtsp://root:root@10.136.47.22:554/axis-media/media.amp?videocodec=h264"
+#EXTINF:-1,camera.8001 - Canal Aeri 1
+rtsp://root:root@10.136.47.21:554/axis-media/media.amp?videocodec=h264"
