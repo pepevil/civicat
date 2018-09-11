@@ -1,0 +1,501 @@
+Identifier;Marquee;mrl
+camera.3003;C-31 198,5 Tunel Amadeu Torner;rtsp://hello:world@1:554/camera-1
+camera.3004;C-31 198 Tunel Amadeu Torner;rtsp://hello:world@1:554/camera-1
+camera.0101;T-11 18 Riudoms;rtsp://root:root@10.137.247.69:554/axis-media/media.amp?videocodec=h264
+camera.0102;T-11 10 Reus;rtsp://root:root@10.137.247.36:554/axis-media/media.amp?videocodec=h264
+camera.0742;AP-7 146,5 Barberà del Valles;rtsp://hello:world@10.137.229.34:554/camera-1
+camera.0744;AP-7/B-30 147,7 Barberà;rtsp://hello:world@10.137.229.35:554/camera-1
+camera.0745;AP-7/B-30 149 Cerdanyola;rtsp://hello:world@10.137.229.36:554/camera-1
+camera.0746;AP-7/B-30 151 Bellaterra;rtsp://hello:world@10.137.229.37:554/camera-1
+camera.0789;AP-7 249,5 Constantí;rtsp://hello:world@10.131.65.11:554/camera-1
+camera.0787;AP-7 244,73 Tarragona;rtsp://hello:world@10.131.65.9:554/camera-1
+camera.1507;C-15 7 C-15 7,000;rtsp://172.28.5.7:554/h264&inst=2
+camera.3308;C-33 86,1 Mollet del Valles;rtsp://hello:world@10.131.1.3:554/camera-1
+camera.0717;AP-7 49,8 Sant Julià de Ramis;rtsp://sct:sct@10.131.10.3:554/axis-media/media.amp?videocodec=h264
+camera.0718;AP-7 55 Girona Nord;rtsp://hello:world@10.131.10.4:554/camera-1
+camera.0734;AP-7 130,3 La Roca;rtsp://sct:sct@10.131.100.31:554/axis-media/media.amp?videocodec=h264
+camera.0738;AP-7 139,65 Mollet;rtsp://hello:world@10.131.100.33:554/camera-1
+camera.0739;AP-7 141,43 Sta. Perpètua;rtsp://hello:world@10.131.100.34:554/camera-1
+camera.0741;AP-7 145,65 Sta. Perpètua;rtsp://hello:world@10.131.100.35:554/camera-1
+camera.0740;AP-7 143,715 Sta. Perpètua;rtsp://hello:world@10.131.100.36:554/camera-1
+camera.0743;AP-7 147 Barberà del Valles;rtsp://hello:world@10.131.100.37:554/camera-1
+camera.3309;C-33 88,3 Mollet Sortida 1;rtsp://sct:sct@10.131.100.47:554/axis-media/media.amp?videocodec=h264
+camera.3310;C-33 89,16 Mollet Sortida 2;rtsp://sct:sct@10.131.100.48:554/axis-media/media.amp?videocodec=h264
+camera.0735;AP-7 133 Montornes Valles;rtsp://sct:sct@10.131.100.50:554/axis-media/media.amp?videocodec=h264
+camera.0736;AP-7 135,5 Montmeló;rtsp://sct:sct@10.131.100.51:554/axis-media/media.amp?videocodec=h264
+camera.0737;AP-7 138,5 Mollet Nord;rtsp://sct:sct@10.131.100.52:554/axis-media/media.amp?videocodec=h264
+camera.3311;C-33 89,9 Parets del Vallès;rtsp://sct:sct@10.131.100.80:554/axis-media/media.amp?videocodec=h264
+camera.0715;AP-7 40 Bascara;rtsp://sct:sct@10.131.11.3:554/axis-media/media.amp?videocodec=h264
+camera.0716;AP-7 44,45 Viladesens;rtsp://sct:sct@10.131.11.4:554/axis-media/media.amp?videocodec=h264
+camera.0703;A-9 278,5 ASF2;rtsp://hello:world@10.131.12.17:554/camera-1
+camera.0701;A-9 271,8 Le Bolou;rtsp://hello:world@10.131.12.18:554/camera-1
+camera.0702;A-9 276,5 ASF3;rtsp://hello:world@10.131.12.19:554/camera-1
+camera.0704;A-9 279 Frontera França;rtsp://hello:world@10.131.12.21:554/camera-1
+camera.0713;AP-7 29 Figueres Sud;rtsp://hello:world@10.131.12.22:554/camera-1
+camera.0714;AP-7 32 Borrassa;rtsp://sct:sct@10.131.12.23:554/axis-media/media.amp?videocodec=h264
+camera.0710;AP-7 15,4 Biure;rtsp://sct:sct@10.131.13.3:554/axis-media/media.amp?videocodec=h264
+camera.0711;AP-7 20 Figueres Nord;rtsp://hello:world@10.131.13.4:554/camera-1
+camera.0712;AP-7 23,85 Figueres Centre;rtsp://hello:world@10.131.13.5:554/camera-1
+camera.0708;AP-7 6,5 Barrera Agullana;rtsp://sct:sct@10.131.15.3:554/axis-media/media.amp?videocodec=h264
+camera.0709;AP-7 8,75 Agullana;rtsp://sct:sct@10.131.15.4:554/axis-media/media.amp?videocodec=h264
+camera.0706;AP-7 1,775 Jonquera;rtsp://sct:sct@10.131.16.3:554/axis-media/media.amp?videocodec=h264
+camera.0707;AP-7 3,5 Aduana;rtsp://sct:sct@10.131.16.4:554/axis-media/media.amp?videocodec=h264
+camera.0705;AP-7 0 Frontera;rtsp://sct:sct@10.131.16.5:554/axis-media/media.amp?videocodec=h264
+camera.3219;C-32S 35,07 Sitges;rtsp://sct:sct@10.131.196.47:554/axis-media/media.amp?videocodec=h264
+camera.3218;C-32S 35,72 Sitges;rtsp://sct:sct@10.131.196.48:554/axis-media/media.amp?videocodec=h264
+camera.3217;C-32S 37,98 Sitges;rtsp://sct:sct@10.131.196.73:554/axis-media/media.amp?videocodec=h264
+camera.3216;C-32S 39,06 Sitges Garraf;rtsp://sct:sct@10.131.196.84:554/axis-media/media.amp?videocodec=h264
+camera.3227;C-32S 21,5 Vilanova Centre;rtsp://root:root@10.131.197.20:554/axis-media/media.amp?videocodec=h264
+camera.3226;C-32S 23,35 S. Pere de Ribes;rtsp://hello:world@10.131.197.21:554/camera-1
+camera.3225;C-32S 25,48 S. Pere de Ribes;rtsp://root:root@10.131.197.22:554/axis-media/media.amp?videocodec=h264
+camera.3224;C-32S 28,3 S. Pere de Ribes;rtsp://sct:sct@10.131.197.23:554/axis-media/media.amp?videocodec=h264
+camera.3223;C-32S 31,16 Sitges Centre;rtsp://sct:sct@10.131.197.25:554/axis-media/media.amp?videocodec=h264
+camera.3222;C-32S 31,73 Sitges Nord;rtsp://sct:sct@10.131.197.28:554/axis-media/media.amp?videocodec=h264
+camera.3221;C-32S 34,02 Sitges Peatge;rtsp://sct:sct@10.131.197.45:554/axis-media/media.amp?videocodec=h264
+camera.3220;C-32S 34,4 Sitges;rtsp://sct:sct@10.131.197.46:554/axis-media/media.amp?videocodec=h264
+camera.3215;C-32S 40,67 Sitges;rtsp://sct:sct@10.131.198.34:554/axis-media/media.amp?videocodec=h264
+camera.3214;C-32S 42,2 Sitges Botigues;rtsp://sct:sct@10.131.198.42:554/axis-media/media.amp?videocodec=h264
+camera.0733;AP-7 129 Peatge La Roca;rtsp://sct:sct@10.131.3.3:554/axis-media/media.amp?videocodec=h264
+camera.0731;AP-7 123,04 Cardedeu;rtsp://sct:sct@10.131.4.3:554/axis-media/media.amp?videocodec=h264
+camera.0730;AP-7 117 Llinars del valles;rtsp://sct:sct@10.131.4.4:554/camera-1
+camera.0732;AP-7 124,8 La Roca;rtsp://desconocida:desconocida@10.131.4.7:554/axis-media/media.amp?videocodec=h264
+camera.4002;C-32 85,515 Alella;rtsp://:@10.131.45.4:554/FALSO
+camera.4004;C-32 87,47 El Masnou;rtsp://hello:world@10.131.45.5:554/camera-1
+camera.4005;C-32 89 El Masnou;rtsp://hello:world@10.131.47.3:554/camera-1
+camera.4006;C-32 90,22 Premià de dalt;rtsp://hello:world@10.131.47.4:554/camera-1
+camera.4007;C-32 92 Peatge Vilassar;rtsp://sct:sct@10.131.47.5:554/axis-media/media.amp?videocodec=h264
+camera.4008;C-32 93,85 Cabrils;rtsp://sct:sct@10.131.47.6:554/axis-media/media.amp?videocodec=h264
+camera.4009;C-32 96,6 Cabrera / N-II;rtsp://sct:sct@10.131.47.7:554/axis-media/media.amp?videocodec=h264
+camera.4015;C-32 104,1 Mataró / N-II;rtsp://sct:sct@10.131.48.10:554/axis-media/media.amp?videocodec=h264
+camera.4016;C-32 106,5 S. A. Llavaneras;rtsp://sct:sct@10.131.48.11:554/axis-media/media.amp?videocodec=h264
+camera.4010;C-32 97,645 Argentona;rtsp://hello:world@10.131.48.3:554/camera-1
+camera.4011;C-32 98,8 Argentona;rtsp://sct:sct@10.131.48.4:554/camera-1
+camera.4012;C-32 99,5 Argentona Tunel 0;rtsp://hello:world@10.131.48.5:554/camera-1
+camera.4013;C-32 100,5 Mataró Tunel 0;rtsp://hello:world@10.131.48.8:554/camera-1
+camera.4014;C-32 102,5 Mataró Nord;rtsp://hello:world@10.131.48.9:554/camera-1
+camera.4017;C-32 108,4 S V Montalt;rtsp://sct:sct@10.131.49.3:554/axis-media/media.amp?videocodec=h264
+camera.0728;AP-7 107,2 Sant Celoni;rtsp://hello:world@10.131.5.4:554/camera-1
+camera.0729;AP-7 111 Sant Celoni;rtsp://sct:sct@10.131.5.6:554/axis-media/media.amp?videocodec=h264
+camera.4018;C-32 110,6 Arenys Peatge;rtsp://hello:world@10.131.51.3:554/camera-1
+camera.4019;C-32 112,4 Arenys;rtsp://hello:world@10.131.51.4:554/camera-1
+camera.4020;C-32 113,8 Canet de Mar;rtsp://hello:world@10.131.51.5:554/camera-1
+camera.4021;C-32 114,9 Canet Tunel 1;rtsp://sct:sct@10.131.51.6:554/camera-1
+camera.4022;C-32 117,4 Sant Pol de Mar;rtsp://sct:sct@10.131.51.7:554/axis-media/media.amp?videocodec=h264
+camera.4028;C-32 126,3 S. Susanna Tunel 3;rtsp://hello:world@10.131.52.10:554/camera-1
+camera.4029;C-32 127,4 Santa Susanna;rtsp://hello:world@10.131.52.13:554/camera-1
+camera.4030;C-32 127,9 S. Susanna Tunel 4;rtsp://hello:world@10.131.52.14:554/camera-1
+camera.4031;C-32 128,6 Palafolls Tunel;rtsp://hello:world@10.131.52.15:554/camera-1
+camera.4032;C-32 130,8 Palafolls;rtsp://hello:world@10.131.52.17:554/camera-1
+camera.4033;C-32 131,7 Palafolls;rtsp://hello:world@10.131.52.25:554/camera-1
+camera.4034;C-32 132,6 Palafolls;rtsp://hello:world@10.131.52.26:554/camera-1
+camera.4035;C-32 134,6 Palafolls;rtsp://hello:world@10.131.52.28:554/camera-1
+camera.4023;C-32 118,7 St. Pol Tunel 2;rtsp://hello:world@10.131.52.3:554/camera-1
+camera.4024;C-32 119,5 St. Pol Tunel;rtsp://hello:world@10.131.52.4:554/camera-1
+camera.4025;C-32 122,3 Callella Sortida;rtsp://hello:world@10.131.52.7:554/camera-1
+camera.4026;C-32 124,55 Pineda Sortida;rtsp://hello:world@10.131.52.8:554/camera-1
+camera.4027;C-32 125,4 Tordera Tunel 3;rtsp://hello:world@10.131.52.9:554/camera-1
+camera.0771;AP-7 186,7 Subirats;rtsp://hello:world@10.131.55.12:554/camera-1
+camera.2315;AP-2 14,45 Enllaç AP-7;rtsp://hello:world@10.131.55.3:554/camera-1
+camera.0767;AP-7 173,9 Castellvi de R.;rtsp://hello:world@10.131.55.6:554/camera-1
+camera.0760;AP-7 161,7 Papiol;rtsp://hello:world@10.131.55.7:554/camera-1
+camera.0768;AP-7 176,7 Gelida;rtsp://hello:world@10.131.57.4:554/camera-1
+camera.0769;AP-7 181,4 Sant Sadurní;rtsp://sct:sct@10.131.58.4:554/axis-media/media.amp?videocodec=h264
+camera.0770;AP-7 182,8 Sant Sadurní;rtsp://sct:sct@10.131.58.5:554/axis-media/media.amp?videocodec=h264
+camera.0772;AP-7 190,4 Avinyonet;rtsp://sct:sct@10.131.59.3:554/axis-media/media.amp?videocodec=h264
+camera.0773;AP-7 193,5 Vilafranca Nord;rtsp://hello:world@10.131.59.4:554/camera-1
+camera.0724;AP-7 87,05 Maçanet;rtsp://sct:sct@10.131.6.3:554/camera-1
+camera.0725;AP-7 89,7 Maçanet;rtsp://sct:sct@10.131.6.4:554/camera-1
+camera.0726;AP-7 95 Hostalric;rtsp://sct:sct@10.131.6.6:554/axis-media/media.amp?videocodec=h264
+camera.0727;AP-7 100,8 Sant Celoni;rtsp://hello:world@10.131.6.8:554/camera-1
+camera.0774;AP-7 195,5 Vilafranca Centre;rtsp://sct:sct@10.131.60.3:554/axis-media/media.amp?videocodec=h264
+camera.0775;AP-7 197,5 Vilafranca;rtsp://hello:world@10.131.60.4:554/camera-1
+camera.0755;AP-7 158,9 St. Cugat;rtsp://hello:world@10.131.61.4:554/camera-1
+camera.0756;AP-7 159,815 Sant Cugat;rtsp://hello:world@10.131.61.5:554/camera-1
+camera.0750;AP-7 153,7 St. Cugat;rtsp://hello:world@10.131.61.6:554/camera-1
+camera.0776;AP-7 200 Vilafranca Sud;rtsp://sct:sct@10.131.62.4:554/axis-media/media.amp?videocodec=h264
+camera.0777;AP-7 204,025 Castellet;rtsp://hello:world@10.131.62.5:554/camera-1
+camera.0780;AP-7 217 El Vendrell;rtsp://hello:world@10.131.63.3:554/camera-1
+camera.0781;AP-7 218,6 El Vendrell;rtsp://hello:world@10.131.63.4:554/camera-1
+camera.0782;AP-7 220,5 Peatge El Vendrell;rtsp://sct:sct@10.131.63.5:554/axis-media/media.amp?videocodec=h264
+camera.0783;AP-7 224 Roda de Barà;rtsp://hello:world@10.131.63.7:554/camera-1
+camera.0784;AP-7 225,8 Roda de Barà;rtsp://hello:world@10.131.63.8:554/camera-1
+camera.0785;AP-7 233 Altafulla;rtsp://sct:sct@10.131.64.3:554/axis-media/media.amp?videocodec=h264
+camera.0788;AP-7 247 Peatge Tarragona;rtsp://hello:world@10.131.65.10:554/camera-1
+camera.0790;AP-7 251,6 Reus;rtsp://hello:world@10.131.66.3:554/camera-1
+camera.0791;AP-7 254,11 Reus;rtsp://hello:world@10.131.66.4:554/camera-1
+camera.0792;AP-7 257 Salou;rtsp://sct:sct@10.131.66.5:554/axis-media/media.amp?videocodec=h264
+camera.0722;AP-7 79,3 Sils;rtsp://hello:world@10.131.7.17:554/camera-1
+camera.0723;AP-7 85 Sort. Vidreres;rtsp://sct:sct@10.131.7.18:554/camera-1
+camera.0209;AP-2 114,2 Fraga;rtsp://root:root@10.131.74.4:554/camera-1
+camera.0208;AP-2 127,3 Soses;rtsp://root:root@10.131.75.3:554/camera-1
+camera.0207;AP-2 140,2 Accés Lleida;rtsp://root:root@10.131.76.3:554/camera-1
+camera.0206;AP-2 160,8 Borges Blanques;rtsp://root:root@10.131.77.3:554/camera-1
+camera.0205;AP-2 174,2 L'albi;rtsp://root:root@10.131.78.4:554/axis-media/media.amp?videocodec=h264
+camera.0204;AP-2 178,7 Vinaixa;rtsp://root:root@10.131.78.5:554/axis-media/media.amp?videocodec=h264
+camera.0203;AP-2 193 Montblanc;rtsp://root:root@10.131.79.3:554/camera-1
+camera.0721;AP-7 71 Riudellots;rtsp://sct:sct@10.131.8.4:554/camera-1
+camera.0202;AP-2 202,7 Cabra del camp;rtsp://root:root@10.131.80.3:554/axis-media/media.amp?videocodec=h264
+camera.0779;AP-7 212 Enllaç AP-2;rtsp://hello:world@10.131.83.11:554/camera-1
+camera.0201;AP-2 232,1 Banyeres Penedes;rtsp://hello:world@10.131.83.13:554/camera-1
+camera.0778;AP-7 208,5 Banyeres Penedes;rtsp://hello:world@10.131.83.9:554/camera-1
+camera.0719;AP-7 60,8 Sant Gregori;rtsp://sct:sct@10.131.9.3:554/camera-1
+camera.0720;AP-7 64 Girona Sud;rtsp://hello:world@10.131.9.4:554/camera-1
+camera.3233;C-32S 9,91 Calafell;rtsp://sct:sct@10.131.97.20:554/axis-media/media.amp?videocodec=h264
+camera.3232;C-32S 11,55 Cunit;rtsp://sct:sct@10.131.97.21:554/axis-media/media.amp?videocodec=h264
+camera.3231;C-32S 13,8 Cubelles;rtsp://hello:world@10.131.97.23:554/camera-1
+camera.3230;C-32S 15,93 Cubelles;rtsp://sct:sct@10.131.97.24:554/axis-media/media.amp?videocodec=h264
+camera.3229;C-32S 18 Vilanova;rtsp://sct:sct@10.131.97.25:554/axis-media/media.amp?videocodec=h264
+camera.3228;C-32S 19,5 Vilanova;rtsp://sct:sct@10.131.97.26:554/axis-media/media.amp?videocodec=h264
+camera.3237;C-32S 1,96 Vendrell;rtsp://root:root@10.131.99.20:554/axis-media/media.amp?videocodec=h264
+camera.3236;C-32S 3,55 Vendrell;rtsp://sct:sct@10.131.99.21:554/axis-media/media.amp?videocodec=h264
+camera.3235;C-32S 5,9 Calafell;rtsp://hello:world@10.131.99.23:554/camera-1
+camera.3234;C-32S 9,12 Calafell;rtsp://hello:world@10.131.99.31:554/camera-1
+camera.0747;AP-7 151,6 Bellaterra;rtsp://hello:world@10.137.229.38:554/camera-1
+camera.1601;C-16 1,5 -;rtsp://hello:world@10.136.34.141:554/camera-1
+camera.1602;C-16 2,089 -;rtsp://hello:world@10.136.34.142:554/camera-1
+camera.1603;C-16 3,768 -;rtsp://hello:world@10.136.34.143:554/camera-1
+camera.1604;C-16 4,763 -;rtsp://hello:world@10.136.34.144:554/camera-1
+camera.1605;C-16 5,2 -;rtsp://hello:world@10.136.34.145:554/camera-1
+camera.1606;C-16 6,06 -;rtsp://hello:world@10.136.34.146:554/camera-1
+camera.1607;C-16 6,8 -;rtsp://hello:world@10.136.34.147:554/camera-1
+camera.1608;C-16 6,9 -;rtsp://hello:world@10.136.34.148:554/camera-1
+camera.1609;C-16 7,3 -;rtsp://hello:world@10.136.34.149:554/camera-1
+camera.0748;AP-7/B-30 152,7 Bellaterra;rtsp://hello:world@10.137.229.39:554/camera-1
+camera.1610;C-16 8,38 -;rtsp://hello:world@10.136.34.150:554/camera-1
+camera.1611;C-16 9,26 -;rtsp://hello:world@10.136.34.151:554/camera-1
+camera.1612;C-16 10,58 -;rtsp://hello:world@10.136.34.152:554/camera-1
+camera.1613;C-16 12,15 -;rtsp://hello:world@10.136.34.153:554/camera-1
+camera.1614;C-16 13,3 -;rtsp://hello:world@10.136.34.154:554/camera-1
+camera.0749;AP-7/B-30 153,3 St. Cugat;rtsp://hello:world@10.137.229.40:554/camera-1
+camera.0751;AP-7/B-30 154 St. Cugat;rtsp://hello:world@10.137.229.41:554/camera-1
+camera.0752;AP-7/B-30 154,6 St. Cugat;rtsp://hello:world@10.137.229.42:554/camera-1
+camera.0753;AP-7/B-30 155,6 St. Cugat;rtsp://hello:world@10.137.229.43:554/camera-1
+camera.0754;AP-7/B-30 157 St. Cugat;rtsp://hello:world@10.137.229.44:554/camera-1
+camera.0761;AP-7 164,965 Castellbisbal;rtsp://root:root@10.137.243.228:554/axis-media/media.amp?videocodec=h264
+camera.0762;AP-7 166,6 Castellbisbal;rtsp://root:root@10.137.243.229:554/axis-media/media.amp?videocodec=h264
+camera.0763;AP-7 168,112 Castellbisbal;rtsp://root:root@10.137.243.230:554/axis-media/media.amp?videocodec=h264
+camera.0764;AP-7 169,722 Martorell;rtsp://root:root@10.137.243.231:554/axis-media/media.amp?videocodec=h264
+camera.0765;AP-7 171,19 Peatge Martorell;"rtsp://root:root@10.137.243.232:554/axis-media/media.amp?videocodec=h264"
+camera.0766;AP-7 171,67 Peatge Martorell;rtsp://root:root@10.137.243.233:554/axis-media/media.amp?videocodec=h264
+camera.0793;AP-7 258,9 Vila-Seca;rtsp://root:root@10.149.2.129:554/axis-media/media.amp?videocodec=h264
+camera.0797;AP-7 270,8 Mont-Roig del Camp;rtsp://root:root@10.149.3.129:554/axis-media/media.amp?videocodec=h264
+camera.0798;AP-7 274,8 Mont-Roig del Camp;rtsp://root:root@10.149.3.130:554/axis-media/media.amp?videocodec=h264
+camera.0802;AP-7 288 Vandellós;rtsp://hello:world@10.149.3.131:554/camera-1
+camera.0803;AP-7 295,2 L'Ametlla de Mar;rtsp://hello:world@10.149.4.129:554/camera-1
+camera.0807;AP-7 303,5 El Perelló;rtsp://hello:world@10.149.15.129:554/camera-1
+camera.0818;AP-7 333,3 Freginals;rtsp://hello:world@10.149.6.129:554/camera-1
+camera.0819;AP-7 337,3 Ulldecona;rtsp://hello:world@10.149.7.129:554/camera-1
+camera.0820;AP-7 341,3 Ulldecona;rtsp://hello:world@10.149.7.130:554/camera-1
+camera.1101;A-2 609,2 Cornellà;rtsp://root:root@10.137.245.36:554/axis-media/media.amp?videocodec=h264
+camera.1102;A-2 608,07 St. Joan Despí;rtsp://root:root@10.137.245.37:554/axis-media/media.amp?videocodec=h264
+camera.1103;A-2 607,4 Enllaç C-245;rtsp://root:root@10.137.245.38:554/axis-media/media.amp?videocodec=h264
+camera.1104;A-2 606,14 Sant Joan Despí;rtsp://root:root@10.137.245.39:554/axis-media/media.amp?videocodec=h264
+camera.1105;A-2 605,58 S. Feliu Llob.;rtsp://root:root@10.137.245.40:554/axis-media/media.amp?videocodec=h264
+camera.1106;A-2 (Baix) 603,363 Enllaç B-23;rtsp://root:root@10.137.245.41:554/axis-media/media.amp?videocodec=h264
+camera.1107;A-2 (Baix) 602,55 Sant Vicenç H.;rtsp://root:root@10.137.245.42:554/axis-media/media.amp?videocodec=h264
+camera.1108;A-2 (Baix) 601,325 Sant Vicenç H.;rtsp://root:root@10.137.245.43:554/axis-media/media.amp?videocodec=h264
+camera.1109;A-2 (Baix) 600,077 Pallejà;rtsp://root:root@10.137.241.100:554/axis-media/media.amp?videocodec=h264
+camera.1110;A-2 (Baix) 598,59 Enllaç B-24;rtsp://root:root@10.137.241.101:554/axis-media/media.amp?videocodec=h264
+camera.1111;A-2 (Baix) 597,279 Pallejà;rtsp://root:root@10.137.241.102:554/axis-media/media.amp?videocodec=h264
+camera.1112;A-2 (Baix) 595,743 St. Andreu Bar;rtsp://root:root@10.137.241.103:554/axis-media/media.amp?videocodec=h264
+camera.1113;A-2 (Baix) 594,127 St. Andreu Bar;rtsp://root:root@10.137.241.104:554/axis-media/media.amp?videocodec=h264
+camera.1114;A-2 (Baix) 592,576 Castellbisbal;rtsp://root:root@10.137.241.105:554/axis-media/media.amp?videocodec=h264
+camera.1115;A-2 (Baix) 591,509 Castellbisbal;rtsp://root:root@10.137.241.106:554/axis-media/media.amp?videocodec=h264
+camera.1116;A-2 (Baix) 590,63 Castellbisbal;rtsp://root:root@10.137.241.107:554/axis-media/media.amp?videocodec=h264
+camera.1117;A-2 (Baix) 589,18 Martorell;rtsp://root:root@10.137.241.108:554/axis-media/media.amp?videocodec=h264
+camera.1118;A-2 (Baix) 587,471 Martorell;rtsp://root:root@10.137.241.109:554/axis-media/media.amp?videocodec=h264
+camera.1119;A-2 (Baix) 586,3 Enllaç AP-7;rtsp://root:root@10.137.241.110:554/axis-media/media.amp?videocodec=h264
+camera.1120;A-2 (Baix) 585,294 Abrera;rtsp://root:root@10.137.241.111:554/axis-media/media.amp?videocodec=h264
+camera.1121;A-2 (Baix) 583,68 Enllaç C-55;rtsp://root:root@10.137.241.112:554/axis-media/media.amp?videocodec=h264
+camera.1122;A-2 (Baix) 579,05 Esparraguera;rtsp://root:root@10.137.245.101:554/axis-media/media.amp?videocodec=h264
+camera.1123;A-2 (Baix) 570,65 Bruc;rtsp://root:root@10.137.245.102:554/axis-media/media.amp?videocodec=h264
+camera.1124;A-2 (Baix) 562,75 Castellolí;rtsp://root:root@10.137.245.103:554/axis-media/media.amp?videocodec=h264
+camera.1125;A-2 (Baix) 560,575 Castellolí;rtsp://root:root@10.137.245.165:554/axis-media/media.amp?videocodec=h264
+camera.1126;A-2 (Baix) 548,675 Jorba;rtsp://root:root@10.137.245.166:554/axis-media/media.amp?videocodec=h264
+camera.1127;A-2 (Baix) 545 Jorba;rtsp://root:root@10.137.245.167:554/axis-media/media.amp?videocodec=h264
+camera.1128;A-2 (Baix) 534,5 Montmaneu;rtsp://root:root@10.137.245.168:554/axis-media/media.amp?videocodec=h264
+camera.1129;A-2 (Baix) 531,95 Panadella;rtsp://root:root@10.137.245.169:554/axis-media/media.amp?videocodec=h264
+camera.1130;A-2 (Baix) 524,35 Cervera;rtsp://root:root@10.137.245.170:554/axis-media/media.amp?videocodec=h264
+camera.1131;A-2 (Baix) 516,95 Cervera;rtsp://root:root@10.137.245.171:554/axis-media/media.amp?videocodec=h264
+camera.1132;A-2 (Baix) 512,75 Tàrrega;rtsp://root:root@10.137.245.172:554/axis-media/media.amp?videocodec=h264
+camera.1133;A-2 (Baix) 501,165 Vilagrassa;rtsp://root:root@10.137.245.229:554/axis-media/media.amp?videocodec=h264
+camera.1134;A-2 (Baix) 489,775 Bellpuig;rtsp://root:root@10.137.245.230:554/axis-media/media.amp?videocodec=h264
+camera.1135;A-2 (Baix) 479,95 Bell-lloc;rtsp://root:root@10.137.245.231:554/axis-media/media.amp?videocodec=h264
+camera.1136;A-2 (Baix) 477,75 Bell-lloc;rtsp://root:root@10.137.245.232:554/axis-media/media.amp?videocodec=h264
+camera.1137;A-2 (Baix) 469,4 Alcoletge;rtsp://root:root@10.137.245.233:554/axis-media/media.amp?videocodec=h264
+camera.1138;A-2 (Baix) 456,725 Lleida;rtsp://root:root@10.137.245.234:554/axis-media/media.amp?videocodec=h264
+camera.1139;A-2 (Baix) 450,5 Alcarras;rtsp://root:root@10.137.241.165:554/axis-media/media.amp?videocodec=h264
+camera.1140;A-2 (Baix) 445 Soses;rtsp://root:root@10.137.241.166:554/axis-media/media.amp?videocodec=h264
+camera.1615;C-16 14,85 -;rtsp://hello:world@10.136.34.12:554/camera-1
+camera.1616;C-16 18,13 -;rtsp://hello:world@10.136.34.15:554/camera-1
+camera.1617;C-16 20,475 -;rtsp://hello:world@10.136.34.17:554/camera-1
+camera.1618;C-16 21,7 Terrassa;rtsp://hello:world@10.137.229.137:554/camera-1
+camera.1619;C-16 22,35 Terrassa;rtsp://hello:world@10.136.34.18:554/camera-1
+camera.1620;C-16 22,6 Terrassa Centre;rtsp://hello:world@10.137.229.138:554/camera-1
+camera.1649;C-16 97,5 Berga;rtsp://root:root@172.17.32.38:554/axis-media/media.amp?videocodec=h264
+camera.1650;C-16 99,9 Cercs;rtsp://root:root@172.17.32.71:554/axis-media/media.amp?videocodec=h264
+camera.1651;C-16 101,2 Cercs;rtsp://root:root@172.17.32.72:554/axis-media/media.amp?videocodec=h264
+camera.1652;C-16 104,2 Cercs;rtsp://root:root@172.17.32.24:554/axis-media/media.amp?videocodec=h264
+camera.1653;BV-4022 1,75 Cercs;rtsp://root:root@172.17.32.25:554/axis-media/media.amp?videocodec=h264
+camera.1654;BV-4025 0,6 Cercs;rtsp://root:root@172.17.32.26:554/axis-media/media.amp?videocodec=h264
+camera.1655;C-16 110 La Nou de Berguedà;rtsp://root:root@172.17.32.45:554/axis-media/media.amp?videocodec=h264
+camera.1656;C-16 112,4 Guardiola de Berguedà;rtsp://root:root@172.17.32.46:554/axis-media/media.amp?videocodec=h264
+camera.1657;C-16 114,9 Guardiola de Berguedà;rtsp://root:root@172.17.32.52:554/axis-media/media.amp?videocodec=h264
+camera.1658;C-16 118,9 Bagà;rtsp://root:root@172.17.32.111:554/axis-media/media.amp?videocodec=h264
+camera.1659;C-16 120,1 Bagà;rtsp://root:root@172.17.32.112:554/axis-media/media.amp?videocodec=h264
+camera.1660;C-16 120,82 Bagà;rtsp://root:root@172.17.32.113:554/axis-media/media.amp?videocodec=h264
+camera.1661;C-16 122,3 Guardiola de Berguedà;rtsp://root:root@172.17.32.114:554/axis-media/media.amp?videocodec=h264
+camera.1662;C-16 123,34 -;rtsp://root:root@172.17.32.119:554/axis-media/media.amp?videocodec=h264
+camera.1663;C-16 123,86 -;rtsp://root:root@172.17.32.120:554/axis-media/media.amp?videocodec=h264
+camera.1664;C-16 129,195 -;rtsp://root:root@172.17.32.121:554/axis-media/media.amp?videocodec=h264
+camera.1665;C-16 129,54 -;rtsp://root:root@172.17.32.122:554/axis-media/media.amp?videocodec=h264
+camera.1666;C-16 129,72 -;rtsp://root:root@172.17.32.123:554/axis-media/media.amp?videocodec=h264
+camera.1667;C-16 130,75 -;rtsp://root:root@172.17.32.124:554/axis-media/media.amp?videocodec=h264
+camera.1704;C-17 9,85 Mollet del Vallès;rtsp://hello:world@10.136.42.223:554/camera-1
+camera.1705;C-17 12,05 Mollet del Vallès;rtsp://root:root@10.136.42.224:554/axis-media/media.amp?videocodec=h264
+camera.1706;C-17 13,625 Mollet del Vallès;rtsp://hello:world@10.136.42.225:554/camera-1
+camera.1708;C-17 15,7 Parets del Vallès;rtsp://root:root@10.136.42.227:554/axis-media/media.amp?videocodec=h264
+camera.1709;C-17 17,6 Llicà de Vall;rtsp://hello:world@10.136.42.228:554/camera-1
+camera.1712;C-17 29,35 Parets del Vallès;rtsp://hello:world@10.136.42.231:554/camera-1
+camera.1713;C-17 29,9 Granollers;rtsp://root:root@10.136.42.232:554/axis-media/media.amp?videocodec=h264
+camera.1714;C-17 31,3 Granollers;rtsp://root:root@10.136.42.233:554/axis-media/media.amp?videocodec=h264
+camera.2001;B-20 17,1 Sta. Coloma;rtsp://hello:world@10.137.229.2:554/camera-1
+camera.2002;B-20 18,4 Sta. Coloma;rtsp://hello:world@10.137.229.3:554/camera-1
+camera.2005;B-20 20 Badalona Montigalà;rtsp://hello:world@10.137.229.4:554/camera-1
+camera.2006;B-20 21,2 Badalona Centre;rtsp://hello:world@10.137.229.5:554/camera-1
+camera.2007;B-20 22,5 Badalona;rtsp://hello:world@10.137.229.6:554/camera-1
+camera.2008;B-20 23,5 Tunel de Tiana;rtsp://hello:world@10.137.229.7:554/camera-1
+camera.2009;B-20 24 Montgat;rtsp://hello:world@10.137.229.8:554/camera-1
+camera.2010;B-20 24,8 Montgat;rtsp://hello:world@10.137.229.9:554/camera-1
+camera.2201;C-32B 0,2 Prat de Llobregat;rtsp://root:root@10.137.241.48:554/axis-media/media.amp?videocodec=h264
+camera.2301;B-23 0 Barcelona;rtsp://root:root@10.137.243.35:554/axis-media/media.amp?videocodec=h264
+camera.2302;B-23 0,6 Esplugues;rtsp://root:root@10.137.243.36:554/axis-media/media.amp?videocodec=h264
+camera.2303;B-23 1,2 Esplugues;rtsp://root:root@10.137.243.37:554/axis-media/media.amp?videocodec=h264
+camera.2304;B-23 2,241 Esplugues;rtsp://root:root@10.137.243.38:554/axis-media/media.amp?videocodec=h264
+camera.2305;B-23 3,11 Sant Just;rtsp://root:root@10.137.243.39:554/axis-media/media.amp?videocodec=h264
+camera.2306;B-23 4,75 St. Joan Despí;rtsp://root:root@10.137.243.40:554/axis-media/media.amp?videocodec=h264
+camera.2307;B-23 6,136 Enllaç A-2;rtsp://root:root@10.137.243.41:554/axis-media/media.amp?videocodec=h264
+camera.2308;B-23 6,9 Sant Feliu;rtsp://root:root@10.137.243.99:554/axis-media/media.amp?videocodec=h264
+camera.2309;B-23 7,38 Sant Feliu;rtsp://root:root@10.137.243.100:554/axis-media/media.amp?videocodec=h264
+camera.2310;B-23 8,59 Molins de Rei;rtsp://root:root@10.137.243.101:554/axis-media/media.amp?videocodec=h264
+camera.2311;B-23 10,181 Enllaç N-340;rtsp://root:root@10.137.243.102:554/axis-media/media.amp?videocodec=h264
+camera.2312;B-23 11,14 Molins de Rei;rtsp://10.137.243.163:554/axis-media/media.amp?videocodec=h264
+camera.2313;AP-2 12,185 Papiol;rtsp://root:root@10.137.243.164:554/axis-media/media.amp?videocodec=h264
+camera.2314;AP-2 13,57 Papiol;rtsp://root:root@10.137.243.165:554/axis-media/media.amp?videocodec=h264
+camera.2316;AP-2 15,2 Papiol;rtsp://root:root@10.137.243.227:554/axis-media/media.amp?videocodec=h264
+camera.2401;N-240 5 Pallaresos;rtsp://root:root@10.137.247.100:554/axis-media/media.amp?videocodec=h264
+camera.2402;N-240 18 Valls;rtsp://root:root@10.137.247.139:554/axis-media/media.amp?videocodec=h264
+camera.2403;N-240 36,7 Montblanc;rtsp://root:root@10.137.247.137:554/axis-media/media.amp?videocodec=h264
+camera.3001;C-31 198,867 Plaça Cerdà;rtsp://root:root@10.137.239.35:554/axis-media/media.amp?videocodec=h264
+camera.3007;C-31 195,6 Hospitalet;rtsp://root:root@10.137.239.38:554/axis-media/media.amp?videocodec=h264
+camera.3008;C-31 195,027 El Prat;rtsp://root:root@10.137.239.39:554/axis-media/media.amp?videocodec=h264
+camera.3009;C-31 193,677 El Prat;rtsp://root:root@10.137.239.40:554/axis-media/media.amp?videocodec=h264
+camera.3010;C-31 193,007 Sortida Aeroport;rtsp://root:root@10.137.239.41:554/axis-media/media.amp?videocodec=h264
+camera.3011;C-31 192,177 Aeroport;rtsp://root:root@10.137.239.99:554/axis-media/media.amp?videocodec=h264
+camera.3012;C-31 191,207 El Prat;rtsp://10.137.239.100:554/axis-media/media.amp?videocodec=h264
+camera.3013;C-31 189,828 Mercaderies Aeroport;rtsp://root:root@10.137.239.101:554/axis-media/media.amp?videocodec=h264
+camera.3014;C-31 188,937 Viladecans;rtsp://root:root@10.137.239.102:554/axis-media/media.amp?videocodec=h264
+camera.3015;C-31 187,296 Viladecans;rtsp://root:root@10.137.239.163:554/axis-media/media.amp?videocodec=h264
+camera.3016;C-31 186,456 Viladecans;rtsp://10.137.239.164:554/axis-media/media.amp?videocodec=h264
+camera.3017;C-31 185,43 Gavà;rtsp://root:root@10.137.239.227:554/axis-media/media.amp?videocodec=h264
+camera.3018;C-31 184,047 Gavà;rtsp://root:root@10.137.239.228:554/axis-media/media.amp?videocodec=h264
+camera.3019;C-31 183,097 Gavà;rtsp://root:root@10.137.239.229:554/axis-media/media.amp?videocodec=h264
+camera.3020;C-31 182,58 Gavà;rtsp://root:root@10.137.239.230:554/axis-media/media.amp?videocodec=h264
+camera.3021;C-31 181,484 Castelldefels;rtsp://root:root@10.137.239.231:554/axis-media/media.amp?videocodec=h264
+camera.3022;C-31 180,941 Castelldefels;rtsp://root:root@10.137.239.232:554/axis-media/media.amp?videocodec=h264
+camera.3023;C-31 180,141 Castelldefels;rtsp://root:root@10.137.239.233:554/axis-media/media.amp?videocodec=h264
+camera.3050;C-31 137,05 EL Vendrell;rtsp://root:root@10.137.246.74:554/axis-media/media.amp?videocodec=h264
+camera.3101;C-31 207,5 L'Hospitalet;rtsp://hello:world@:554/camera-1
+camera.3102;C-31 209,128 St. Adrià Besos;rtsp://hello:world@10.137.229.67:554/camera-1
+camera.3103;C-31 210,144 Badalona Sud;rtsp://hello:world@10.137.229.68:554/camera-1
+camera.3104;C-31 210,974 Badalona;rtsp://hello:world@10.137.229.69:554/camera-1
+camera.3005;C-31 196,927 Bellvitge;rtsp://hello:world@10.137.239.36:554/camera-1
+camera.3006;C-31 195,927 Hospital Bellvitge;rtsp://hello:world@10.137.229.71:554/camera-1
+camera.3106;C-31 213,554 Badalona Nord;rtsp://hello:world@10.137.229.71:554/camera-1
+camera.3107;C-31 214,903 Badalona;rtsp://hello:world@10.137.229.72:554/camera-1
+camera.3108;C-31 215,8 Enllaç N-II;rtsp://hello:world@10.137.229.73:554/camera-1
+camera.3109;C-31 216,254 Montgat;rtsp://hello:world@10.137.229.74:554/camera-1
+camera.3201;B-20 2,83 Cornellà;rtsp://root:root@10.137.241.51:554/axis-media/media.amp?videocodec=h264
+camera.3202;B-20 1,65 El Prat;rtsp://root:root@10.137.241.36:554/axis-media/media.amp?videocodec=h264
+camera.3203;B-20 0,83 Sant Boi;rtsp://root:root@10.137.241.37:554/axis-media/media.amp?videocodec=h264
+camera.3204;C-32S 54,3 Sant Boi Centre;rtsp://root:root@10.137.241.38:554/axis-media/media.amp?videocodec=h264
+camera.3205;C-32S 53,35 Sant Boi Sud;rtsp://root:root@10.137.241.39:554/axis-media/media.amp?videocodec=h264
+camera.3206;C-32S 51,6 Viladecans;rtsp://root:root@10.137.241.40:554/axis-media/media.amp?videocodec=h264
+camera.3207;C-32S 50,365 Gavà;rtsp://root:root@10.137.241.41:554/axis-media/media.amp?videocodec=h264
+camera.3208;C-32S 49,114 Gavà;rtsp://root:root@10.137.241.42:554/axis-media/media.amp?videocodec=h264
+camera.3209;C-32S 49,975 Gavà Sud;rtsp://root:root@10.137.241.43:554/axis-media/media.amp?videocodec=h264
+camera.3210;C-32S 46,9 Castelldefels;rtsp://root:root@10.137.241.44:554/axis-media/media.amp?videocodec=h264
+camera.3211;C-32S 45,275 Castelldefels;rtsp://root:root@10.137.241.45:554/axis-media/media.amp?videocodec=h264
+camera.3212;C-32S 44,3 Castelldefels;rtsp://10.137.241.46:554/axis-media/media.amp?videocodec=h264
+camera.3213;C-32S 43,463 Port Ginesta;rtsp://10.137.241.47:554/axis-media/media.amp?videocodec=h264
+camera.3304;C-33 79,847 Montcada;rtsp://hello:world@10.137.229.99:554/camera-1
+camera.3306;C-33 82,11 Montcada;rtsp://hello:world@10.137.229.101:554/camera-1
+camera.3307;C-33 84,22 La Llagosta;rtsp://hello:world@10.137.229.102:554/camera-1
+camera.3401;N-340 1243,154 Molins;rtsp://root:root@10.137.245.44:554/axis-media/media.amp?videocodec=h264
+camera.3402;N-340 1242,278 St. Vicenç;rtsp://root:root@10.137.245.45:554/axis-media/media.amp?videocodec=h264
+camera.3403;N-340 1241,66 Cervelló;rtsp://root:root@10.137.245.46:554/axis-media/media.amp?videocodec=h264
+camera.3404;N-340 1226 Ordal;rtsp://root:root@10.137.247.166:554/axis-media/media.amp?videocodec=h264
+camera.3405;N-340 1201,8 Arboç;rtsp://root:root@10.137.246.70:554/axis-media/media.amp?videocodec=h264
+camera.3406;N-340 1195,4 Bellvei;rtsp://root:root@10.137.246.72:554/axis-media/media.amp?videocodec=h264
+camera.3407;N-340 1186,4 Vendrell;rtsp://root:root@10.137.246.38:554/axis-media/media.amp?videocodec=h264
+camera.3408;N-340 1183,5 Roda de Barà;rtsp://root:root@10.137.246.43:554/axis-media/media.amp?videocodec=h264
+camera.3409;N-340 1179,3 Torredembarra;rtsp://root:root@10.137.246.40:554/axis-media/media.amp?videocodec=h264
+camera.3410;N-340 1176 Torredembarra;rtsp://root:root@10.137.247.145:554/axis-media/media.amp?videocodec=h264
+camera.3411;N-340 1171 Tarragona;rtsp://root:root@10.137.247.147:554/axis-media/media.amp?videocodec=h264
+camera.3412;N-340 1129,5 Tarragona;rtsp://root:root@10.137.247.72:554/axis-media/media.amp?videocodec=h264
+camera.3413;N-340 1162 Tarragona;rtsp://root:root@10.137.247.4:554/axis-media/media.amp?videocodec=h264
+camera.3414;N-340 1151,2 Vila-seca;rtsp://root:root@10.137.247.152:554/axis-media/media.amp?videocodec=h264
+camera.3415;N-340 1143,7 Cambrils;rtsp://root:root@10.137.246.100:554/axis-media/media.amp?videocodec=h264
+camera.3416;N-340 1130,2 Miami Platja;rtsp://root:root@10.137.246.102:554/axis-media/media.amp?videocodec=h264
+camera.3417;N-340 1124,9 Vandellós;rtsp://root:root@10.137.246.196:554/axis-media/media.amp?videocodec=h264
+camera.3418;N-340 1113 Ametlla de Mar;rtsp://root:root@10.137.246.198:554/axis-media/media.amp?videocodec=h264
+camera.3419;N-340 1099,2 Ampolla;rtsp://root:root@10.137.246.168:554/axis-media/media.amp?videocodec=h264
+camera.3420;N-340 1087,5 Aldea;rtsp://root:root@10.137.246.132:554/axis-media/media.amp?videocodec=h264
+camera.3421;N-340 1072 S. Carles Ràpita;rtsp://root:root@10.137.246.170:554/axis-media/media.amp?videocodec=h264
+camera.3422;N-340 1065,6 Alcanar;rtsp://root:root@10.137.246.172:554/axis-media/media.amp?videocodec=h264
+camera.3501;C-35 84 Maçanet;rtsp://root:root@10.137.232.11:554/axis-media/media.amp?videocodec=h264
+camera.3502;C-35 85,5 Vidreres;rtsp://root:root@10.137.232.12:554/axis-media/media.amp?videocodec=h264
+camera.3503;C-35 88 Vidreres;rtsp://root:root@10.137.232.13:554/axis-media/media.amp?videocodec=h264
+camera.3504;C-35 91,5 Caldes;rtsp://root:root@10.137.232.14:554/axis-media/media.amp?videocodec=h264
+camera.3505;C-35 94,7 Llagostera;rtsp://root:root@10.137.232.15:554/axis-media/media.amp?videocodec=h264
+camera.3506;C-35 96,5 Llagostera;rtsp://root:root@10.137.232.16:554/axis-media/media.amp?videocodec=h264
+camera.3507;C-65 28 Quart;rtsp://root:root@10.137.232.17:554/axis-media/media.amp?videocodec=h264
+camera.3508;C-25 244,5 Cassà;rtsp://root:root@10.137.232.18:554/axis-media/media.amp?videocodec=h264
+camera.3509;C-25 238 Riudellots;rtsp://root:root@10.137.232.19:554/axis-media/media.amp?videocodec=h264
+camera.3510;C-65 17 Cassà;rtsp://root:root@10.137.232.20:554/axis-media/media.amp?videocodec=h264
+camera.3511;C-65 12 Llagostera;rtsp://root:root@10.137.232.21:554/axis-media/media.amp?videocodec=h264
+camera.3512;C-65 9,4 Llagostera;rtsp://root:root@10.137.232.22:554/axis-media/media.amp?videocodec=h264
+camera.3513;C-65 5,4 Santa Cristina;rtsp://root:root@10.137.232.23:554/axis-media/media.amp?videocodec=h264
+camera.3514;C-35 310 Santa Cristina;rtsp://root:root@10.137.232.24:554/axis-media/media.amp?videocodec=h264
+camera.3515;C-35 312 Castell d'Aro;rtsp://root:root@10.137.232.25:554/axis-media/media.amp?videocodec=h264
+camera.3516;C-35 314 Castell d'Aro;rtsp://root:root@10.137.232.26:554/axis-media/media.amp?videocodec=h264
+camera.3517;C-35 316,5 Castell d'Aro;rtsp://root:root@10.137.232.27:554/axis-media/media.amp?videocodec=h264
+camera.3518;C-35 319,5 Calonge;rtsp://root:root@10.137.232.28:554/axis-media/media.amp?videocodec=h264
+camera.3519;C-35 324,6 Palamos;rtsp://root:root@10.137.232.29:554/axis-media/media.amp?videocodec=h264
+camera.3520;C-35 327 Palamos;rtsp://root:root@10.137.232.30:554/axis-media/media.amp?videocodec=h264
+camera.3521;C-35 330 Montras;rtsp://root:root@10.137.232.31:554/axis-media/media.amp?videocodec=h264
+camera.3523;C-66 1,5 Llofriu;rtsp://root:root@10.137.232.33:554/axis-media/media.amp?videocodec=h264
+camera.3524;C-66 5,3 Forellac;rtsp://root:root@10.137.232.34:554/axis-media/media.amp?videocodec=h264
+camera.3525;C-66 7,5 La Bisbal;rtsp://root:root@10.137.232.35:554/axis-media/media.amp?videocodec=h264
+camera.0806;AP-7 298,8 L'Ametlla de Mar;rtsp://hello:world@10.149.15.45:554/camera-1
+camera.0805;AP-7 297 L'Ametlla de Mar;rtsp://hello:world@10.149.15.46:554/camera-1
+camera.4001;C-32 85,048 Alella;rtsp://hello:world@10.137.229.66:554/camera-1
+camera.4003;C-32 85,8 Sortida Alella;rtsp://hello:world@10.137.229.10:554/camera-1
+camera.0799;AP-7 279,3 Hospitalet de l'Infant;rtsp://hello:world@10.149.3.52:554/camera-1
+camera.0796;AP-7 266,8 Cambrils;rtsp://hello:world@10.149.3.53:554/camera-1
+camera.0795;AP-7 265 Cambrils;rtsp://hello:world@10.149.3.54:554/camera-1
+camera.0794;AP-7 263,9 Cambrils;rtsp://hello:world@10.149.3.55:554/camera-1
+camera.5803;C-58 0 Ronda de Dalt;rtsp://hello:world@10.137.227.203:554/camera-1
+camera.0804;AP-7 296,1 L'Ametlla de Mar;rtsp://hello:world@10.149.4.47:554/camera-1
+camera.0801;AP-7 284,5 Hospitalet de l'Infant;rtsp://hello:world@10.149.4.48:554/camera-1
+camera.0800;AP-7 281 Hospitalet de l'Infant;rtsp://hello:world@10.149.4.51:554/camera-1
+camera.0814;AP-7 319 L'Aldea;rtsp://hello:world@10.149.5.36:554/camera-1
+camera.0813;AP-7 318,3 L'Aldea;rtsp://hello:world@10.149.5.37:554/camera-1
+camera.0812;AP-7 317,8 L'Aldea;rtsp://hello:world@10.149.5.38:554/camera-1
+camera.0811;AP-7 315,8 Camarles;rtsp://hello:world@10.149.5.41:554/camera-1
+camera.0808;AP-7 307,1 L'Ampolla;rtsp://hello:world@10.149.5.42:554/camera-1
+camera.0809;AP-7 309 L'Ampolla;rtsp://hello:world@10.149.5.43:554/camera-1
+camera.0815;AP-7 320,2 L'Aldea;rtsp://hello:world@10.149.6.35:554/camera-1
+camera.0817;AP-7 324,4 Amposta;rtsp://hello:world@10.149.7.33:554/camera-1
+camera.0816;AP-7 323 L'Aldea;rtsp://hello:world@10.149.7.34:554/camera-1
+camera.5810;C-58 1,7 B. Nord inferior;rtsp://hello:world@10.137.227.210:554/camera-1
+camera.5811;C-58 1,75 Montcada i Reixac;rtsp://hello:world@10.137.227.211:554/camera-1
+camera.5813;C-58 2,83 Montcada i Reixac;rtsp://hello:world@10.137.227.213:554/camera-1
+camera.5815;C-58 3,902 Montcada i Reixac;rtsp://hello:world@10.137.227.215:554/camera-1
+camera.5818;C-58 4,589 Montcada i Reixac;rtsp://hello:world@10.137.227.218:554/camera-1
+camera.5819;C-58 5,976 Ripollet;rtsp://hello:world@10.137.229.130:554/camera-1
+camera.5821;C-58 7,826 Ripollet;rtsp://hello:world@10.137.229.131:554/camera-1
+camera.5822;C-58 9,546 Badia del Vallès;rtsp://hello:world@10.137.229.132:554/camera-1
+camera.5823;C-58 11,725 Sant Quirze;rtsp://hello:world@10.137.229.133:554/camera-1
+camera.5824;C-58 15,5 Sant Quirze;rtsp://hello:world@10.137.229.134:554/camera-1
+camera.5825;C-58 17,75 Terrassa;rtsp://hello:world@10.137.229.135:554/camera-1
+camera.1501;C-15 1 C-15 1,000;rtsp://172.28.5.1/h264&inst=2
+camera.1511;C-15 14 C-15 14,000;rtsp://172.28.5.1/h264&inst=2
+camera.1509;C-15 11 C-15 11,000;rtsp://172.28.5.11/h264&inst=2
+camera.1510;C-15 12 C-15 12,000;rtsp://172.28.5.12/h264&inst=2
+camera.1512;C-15 15 C-15 15,000;rtsp://172.28.5.15/h264&inst=2
+camera.1513;C-15 16 C-15 16,000;rtsp://172.28.5.16/h264&inst=2
+camera.1514;C-15 18 C-15 18,000;rtsp://172.28.5.18/h264&inst=2
+camera.1516;C-15 19,5 C-15 19,500;rtsp://172.28.5.19/h264&inst=2
+camera.1515;C-15 19 C-15 19,000;rtsp://172.28.5.193/h264&inst=2
+camera.1502;C-15 2 C-15 2,000;rtsp://172.28.5.2/h264&inst=2
+camera.1517;C-15 22 C-15 22,000;rtsp://172.28.5.22/h264&inst=2
+camera.1518;C-15 24 C-15 24,000;rtsp://172.28.5.24/h264&inst=2
+camera.1519;C-15 27 C-15 27,000;rtsp://172.28.5.27/h264&inst=2
+camera.1520;C-15 28 C-15 28,000;rtsp://172.28.5.28:554/h263
+camera.1503;C-15 3 C-15 3,000;rtsp://172.28.5.3/h264&inst=2
+camera.1521;C-15 31 C-15 31,000;rtsp://172.28.5.31/h264&inst=2
+camera.1522;C-15 32 C-15 32,000;rtsp://172.28.5.32/h264&inst=2
+camera.1523;C-15 35 C-15 35,000;rtsp://172.28.5.35/h264&inst=2
+camera.1524;C-15 36 C-15 36,000;rtsp://172.28.5.36/h264&inst=2
+camera.1525;C-15 37 C-15 37,000;rtsp://172.28.5.37/h264&inst=2
+camera.1526;C-15 39 C-15 39,000;rtsp://172.28.5.39/h264&inst=2
+camera.1504;C-15 4 C-15 4,000;rtsp://172.28.5.4/h264&inst=2
+camera.1527;C-15 40 C-15 40,000;rtsp://172.28.5.40/h264&inst=2
+camera.1528;C-15 43 C-15 43,000;rtsp://172.28.5.43/h264&inst=2
+camera.1505;C-15 5 C-15 5,000;rtsp://172.28.5.5/h264&inst=2
+camera.1506;C-15 6 C-15 6,000;rtsp://172.28.5.6/h264&inst=2
+camera.3701;C-37 69 C-37 69,000;rtsp://172.28.5.69/h264&inst=2
+camera.3702;C-37 70 C-37 70,000;rtsp://172.28.5.70/h264&inst=2
+camera.3703;C-37 72 C-37 72,000;rtsp://172.28.5.72/h264&inst=2
+camera.3704;C-37 74 C-37 74,000;rtsp://172.28.5.74:554/h263
+camera.3705;C-37 78 C-37 78,000;rtsp://172.28.5.76/h264&inst=2
+camera.3706;C-37 79 C-37 79,000;rtsp://172.28.5.79/h264&inst=2
+camera.1508;C-15 8 C-15 8,000;rtsp://172.28.5.8/h264&inst=2
+camera.3707;C-37 80 C-37 80,000;rtsp://172.28.5.80/h264&inst=2
+camera.3708;C-37 81 C-37 81,000;rtsp://172.28.5.81/h264&inst=2
+camera.3709;C-37 86 C-37 86,000;rtsp://172.28.5.86/h264&inst=2
+camera.3710;C-37 88 C-37 88,000;rtsp://172.28.5.88/h264&inst=2
+camera.3711;C-37 90 C-37 90,000;rtsp://172.28.5.90/h264&inst=2
+camera.3712;C-37 92 C-37 92,000;rtsp://172.28.5.92:554/h263
+camera.1411;C-14 11,365 C-14 11,365 Reus;rtsp://:@192.168.0.25/h264&inst=1
+camera.1412;C-14 13,147 C-14 13,147 Reus;rtsp://:@192.168.0.25/h264&inst=1
+camera.1413;C-14 14,485 C-14 14+485 Selva del Camp;rtsp://:@192.168.0.25/h264&inst=1
+camera.1414;C-14 16,165 C-14 16,165 Masies Catalanes;rtsp://:@192.168.0.25/h264&inst=1
+camera.1415;C-14 18,247 C-14 18,247 Alcover;rtsp://:@192.168.0.25/h264&inst=1
+camera.1416;C-14 20,684 C-14 20,684 Alcover;rtsp://:@192.168.0.25/h264&inst=1
+camera.0001;B-20 15,63 Meridiana;rtsp://hello:world@192.168.47.201:554/camera-1
+camera.0002;B-20 14,93 Via Julia;rtsp://hello:world@192.168.47.202:554/camera-1
+camera.0003;B-20 13,23 Valldaura;rtsp://hello:world@192.168.47.203:554/camera-1
+camera.0004;B-20 12,34 Velodrom;rtsp://hello:world@192.168.47.204:554/camera-1
+camera.0005;B-20 11,4 Vall d'Hebron;rtsp://hello:world@192.168.47.205:554/camera-1
+camera.0006;B-20 10,68 Jorda;rtsp://hello:world@192.168.47.206:554/camera-1
+camera.0007;B-20 9,6 Collserola;rtsp://hello:world@192.168.47.207:554/camera-1
+camera.0008;B-20 8,4 St. Gervasi;rtsp://hello:world@192.168.47.208:554/camera-1
+camera.0009;B-20 7,47 Via Augusta;rtsp://hello:world@192.168.47.209:554/camera-1
+camera.0010;B-20 7,42 Vallvidrera;rtsp://hello:world@192.168.47.210:554/camera-1
+camera.0011;B-20 5,42 Crta. Esplugues;rtsp://hello:world@192.168.47.211:554/camera-1
+camera.0012;B-20 4,6 Diagonal;rtsp://hello:world@192.168.47.212:554/camera-1
+camera.0013;B-20 3,78 Esplugues;rtsp://hello:world@192.168.47.213:554/camera-1
+camera.0014;B-20 0,76 Cornellà;rtsp://hello:world@192.168.47.214:554/camera-1
+camera.0015;A-2 610,5 Nus Llobregat;rtsp://hello:world@192.168.47.215:554/camera-1
+camera.0016;B-10 17,8 Mercabarna;rtsp://hello:world@192.168.47.216:554/camera-1
+camera.0017;N-II 16,9 Zona Franca;rtsp://hello:world@192.168.47.217:554/camera-1
+camera.0018;N-II 15,2 Pg. Zona Franca;rtsp://hello:world@192.168.47.218:554/camera-1
+camera.0019;N-II 14,2 Can Tunis;rtsp://hello:world@192.168.47.219:554/camera-1
+camera.0020;B-10 12,43 Morrot;rtsp://hello:world@192.168.47.220:554/camera-1
+camera.0021;B-10 11 Pg. Colon;rtsp://hello:world@192.168.47.221:554/camera-1
+camera.0022;B-10 9,4 Barceloneta;rtsp://hello:world@192.168.47.222:554/camera-1
+camera.0023;B-10 8,92 Avda. Carles I;rtsp://hello:world@192.168.47.223:554/camera-1
+camera.0024;B-10 7,99 Badajoz;rtsp://hello:world@192.168.47.224:554/camera-1
+camera.0025;B-10 6,7 Bac de Roda;rtsp://hello:world@192.168.47.225:554/camera-1
+camera.0026;B-10 5,36 Prim;rtsp://hello:world@192.168.47.226:554/camera-1
+camera.0027;B-10 4,3 Besos;rtsp://hello:world@192.168.47.227:554/camera-1
+camera.0028;B-10 2,7 Guipuzcoa;rtsp://hello:world@192.168.47.228:554/camera-1
+camera.0029;B-10 0,76 Bon Pastor;rtsp://hello:world@192.168.47.229:554/camera-1
+camera.0030;B-10 0 Acces Nus Trinitat;rtsp://hello:world@192.168.47.230:554/camera-1
+camera.0031;B-10 0 Nus Trinitat;rtsp://hello:world@192.168.47.231:554/camera-1
+camera.0032;B-10 11,7 0;rtsp://hello:world@192.168.47.233:554/camera-1
+camera.0033;B-10 12,7 0;rtsp://hello:world@192.168.47.234:554/camera-1
+camera.9001;Rondes  Collserola/Guàrdia Urbana 1;rtsp://hello:world@192.168.47.93:554/camera-1
+camera.9002;Rondes  Collserola/Guàrdia Urbana 2;rtsp://hello:world@192.168.47.94:554/camera-1
+camera.9003;Rondes  Collserola/Guàrdia Urbana 3;rtsp://hello:world@192.168.47.95:554/camera-1
+camera.9004;Rondes  Collserola/Guàrdia Urbana 4;rtsp://hello:world@192.168.47.96:554/camera-1
+camera.0786;AP-7 242,4 Tarragona;rtsp://root:root@10.131.65.8:554/axis-media/media.amp?videocodec=h264
+camera.0810;AP-7 310,4 L'Ampolla;rtsp://hello:world@-:554/camera-1
+camera.8001;  Canal Aeri 1;rtsp://root:root@10.136.47.21:554/axis-media/media.amp?videocodec=h264
+camera.8002;  Canal Aeri 2;rtsp://root:root@10.136.47.22:554/axis-media/media.amp?videocodec=h264
+camera.8050;0;rtsp://:@-/FALSO
+camera.8051;0;rtsp://:@-/FALSO
+camera.8052;0;rtsp://:@-/FALSO
+camera.8053;0;rtsp://:@-/FALSO
