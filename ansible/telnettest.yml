@@ -1,0 +1,30 @@
+---
+- hosts: cisco
+  gather_facts: False
+  connection: local
+  tasks:
+  - name: telnet a cisco y show running-config
+    telnet:
+            #      user: cisco
+          password: cisco
+          login_prompt: "Password: "
+          prompts:
+                  - "[>|#]"
+                    #ios_command:
+          commands:
+                  - terminal length 0
+                  - show run
+                    #- \n
+                    #- \n
+    register: output
+  - name: mandar la salida a una variable
+    debug: var=output.output
+  - name: mostrar el valor de la variable y copiarla a un archivo de texto    
+    local_action: 
+          module: copy
+          content: "{{ output.output[1] }}"
+          dest: "./facts/{{ inventory_hostname }}.txt"         
+          #  - name: copia
+          #copy:
+            #content: "{{ output.output[0] }}" dest: "./facts/{{
+            #inventory_hostname }}.txt"
